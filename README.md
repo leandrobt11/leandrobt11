@@ -1,4 +1,4 @@
-### Olá, me chamo Leandro Berto
+### Olá, me chamo Leandro!
 
 <div align="center">
   <a href="https://github.com/leandrobt11">
@@ -8,7 +8,6 @@
 </div>
 
 ### Formação:
-<li>🎓 Formado no Cólegio Alpha Praia Grande
 <li>📚 Cursando Analise e Desenvolvimento de Sistemas na Fatec Praia Grande</li>
 
 ### Entre em contato:
