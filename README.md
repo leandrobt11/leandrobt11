@@ -8,7 +8,7 @@
 </div>
 
 ### Formação:
-<li>📚 Cursando Analise e Desenvolvimento de Sistemas na Fatec Praia Grande</li>
+<li>📚 Cursando Engenharia de Software em Anhanguera Educacional </li>
 
 ### Entre em contato:
 
